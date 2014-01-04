@@ -1,0 +1,5 @@
+*clustal-omega-1.2.0 (04 Jan 2014)
+
+  04 Jan 2014; cel <cel.gentoo@gmail.com> +clustal-omega-1.2.0.ebuild,
+  +metadata.xml:
+  bumped sci-biology/clustal-omega to version 1.2.0.
