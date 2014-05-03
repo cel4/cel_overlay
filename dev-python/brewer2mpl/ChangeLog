@@ -1,0 +1,6 @@
+*brewer2mpl-1.4 (03 May 2014)
+*brewer2mpl-9999 (03 May 2014)
+
+  03 May 2014; cel <cel.gentoo@gmail.com> +brewer2mpl-1.4.ebuild,
+  +brewer2mpl-9999.ebuild, +metadata.xml:
+  added ebuilds for brewer2mpl.
