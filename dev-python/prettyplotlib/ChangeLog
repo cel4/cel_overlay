@@ -1,0 +1,5 @@
+*prettyplotlib-9999 (03 May 2014)
+
+  03 May 2014; cel <cel.gentoo@gmail.com> +.prettyplotlib-9999.ebuild.swp,
+  +metadata.xml, +prettyplotlib-9999.ebuild:
+  added prettyplotlib live ebuild.
