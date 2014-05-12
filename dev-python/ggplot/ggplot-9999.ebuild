@@ -18,9 +18,11 @@ IUSE=""
 
 DEPEND=""
 RDEPEND="${DEPEND}
+	dev-python/brewer2mpl[${PYTHON_USEDEP}]
 	dev-python/matplotlib[${PYTHON_USEDEP}]
-	dev-python/pandas[${PYTHON_USEDEP}]
 	dev-python/numpy[${PYTHON_USEDEP}]
-	dev-python/statsmodels[${PYTHON_USEDEP}]
+	dev-python/pandas[${PYTHON_USEDEP}]
+	dev-python/patsy[${PYTHON_USEDEP}]
 	sci-libs/scipy[${PYTHON_USEDEP}]
-	dev-python/patsy[${PYTHON_USEDEP}]"
+	dev-python/six[${PYTHON_USEDEP}]
+	dev-python/statsmodels[${PYTHON_USEDEP}]"

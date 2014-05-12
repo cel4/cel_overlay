@@ -1,3 +1,6 @@
+  12 May 2014; cel <cel.gentoo@gmail.com> ggplot-9999.ebuild:
+  updated ggplot's dependencies.
+
 *ggplot-9999 (05 May 2014)
 
   05 May 2014; cel <cel.gentoo@gmail.com> +ggplot-9999.ebuild, +metadata.xml:
