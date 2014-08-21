@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+<maintainer>
+  <email>cel.gentoo@gmail.com</email>
+</maintainer>
+<longdescription lang="en">
+Seaborn is a library for making attractive and informative statistical
+graphics in Python. It is built on top of matplotlib and tightly integrated
+with the PyData stack, including support for numpy and pandas data structures
+and statistical routines from scipy and statsmodels.
+</longdescription>
+<upstream>
+  <remote-id type="pypi">seaborn</remote-id>
+</upstream>
+</pkgmetadata>
