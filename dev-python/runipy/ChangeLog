@@ -1,0 +1,4 @@
+*runipy-0.1.1 (21 Aug 2014)
+
+  21 Aug 2014; cel <cel.gentoo@gmail.com> +metadata.xml, +runipy-0.1.1.ebuild:
+  Added ebuild for dev-python/runipy.
