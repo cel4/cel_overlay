@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-<maintainer>
-  <email>cel.gentoo@gmail.com</email>
-</maintainer>
-<longdescription lang="en">
-  Runipy offers a script to run IPython notebooks from commandline. It aims
-  to provide support for automated report generation and support of data
-  pipelines containing IPython notebooks.
-</longdescription>
-<upstream>
-  <remote-id type="pypi">runipy</remote-id>
-</upstream>
+  <maintainer>
+    <email>cel.gentoo@gmail.com</email>
+  </maintainer>
+  <longdescription lang="en">
+Runipy offers a script to run IPython notebooks from command-line. It aims
+to provide support for automated report generation and support of data
+pipelines containing IPython notebooks.
+  </longdescription>
+  <upstream>
+    <remote-id type="pypi">runipy</remote-id>
+    <remote-id type="github">paulgb/runipy</remote-id>
+  </upstream>
 </pkgmetadata>
