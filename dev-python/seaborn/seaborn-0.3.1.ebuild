@@ -34,7 +34,7 @@ DEPEND="${RDEPEND}
 		dev-python/numpydoc
 		dev-python/ipython
 		dev-python/runipy
-		)
+	)
 	test? ( dev-python/nose[${PYTHON_USEDEP}] )"
 
 python_compile_all() {
@@ -53,10 +53,10 @@ python_test() {
 }
 
 python_install_all() {
-	distutils-r1_python_install_all
 	use doc && dohtml -r doc/_build/html/*
 	if use examples; then
 		insinto /usr/share/doc/${PF}
 		doins -r examples
 	fi
+	distutils-r1_python_install_all
 }
