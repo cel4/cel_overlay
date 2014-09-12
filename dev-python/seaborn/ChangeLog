@@ -1,3 +1,9 @@
+*seaborn-0.4.0 (12 Sep 2014)
+
+  12 Sep 2014; cel <cel.gentoo@gmail.com> +files/seaborn-0.4.0-issue274.patch,
+  +seaborn-0.4.0.ebuild:
+  seaborn: bumped to version 0.4.0.
+
   26 Aug 2014; cel <cel.gentoo@gmail.com> metadata.xml, seaborn-0.3.1.ebuild:
   seaborn: fixes ebuild and added githubremote-id.
 

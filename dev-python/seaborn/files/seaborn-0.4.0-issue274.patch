@@ -1,0 +1,13 @@
+diff --git a/seaborn/tests/test_palettes.py b/seaborn/tests/test_palettes.py
+index d3d28b3..70ee3fb 100644
+--- a/seaborn/tests/test_palettes.py
++++ b/seaborn/tests/test_palettes.py
+@@ -205,7 +205,7 @@ class TestColorPalettes(object):
+ 
+     def test_xkcd_palette(self):
+ 
+-        names = xkcd_rgb.keys()[10:15]
++        names = list(xkcd_rgb.keys())[10:15]
+         colors = palettes.xkcd_palette(names)
+         for name, color in zip(names, colors):
+             as_hex = mpl.colors.rgb2hex(color)
